@@ -17,7 +17,8 @@ Users can switch between the two views.
 
 <h2>Map Links</h2>
 
-<p><a href="index.html">2D Map</a></p>
-<p><a href="3d.html">3D Map</a></p>
+<p><a href="https://abyronuwyo.github.io/week6Assignment/">2D Map</a></p>
+
+<p><a href="https://abyronuwyo.github.io/week6Assignment/3d.html">3D Map</a></p>
 
 <p>Created by Anthoney L Byron</p>
